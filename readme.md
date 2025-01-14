@@ -18,7 +18,7 @@ OpenCV-Python
 
 ## Test
 
-The proposed **MadyGraph** can enhance the performance of any existing results. We have released our pretrained model
+The proposed **MadyGraph** can enhance the performance of any existing SCI reconstructions. We have released our pretrained model
 in ```model/```. This repository uses the results of [EfficientSCI](https://github.com/ucaswangls/EfficientSCI) as an
 example. Run
 
